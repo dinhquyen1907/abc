@@ -1,0 +1,22 @@
+﻿I: Các công cụ đã cài
+* LightShot
+* Faststone capture
+* Putty
+* MobaXterm
+* Vmware Workstation
+* Excalidraw
+* Trello
+* Telegram
+IIII: Tìm hiểu về các công cụ
+1: Faststone capture
+Sử dụng Screen Recorder để quay màn hình
+2: LightShot
+        PrtSc + Ctrl + kéo chuột để chụp ảnh màn hình
+3: PuTTy
+        Hostname(or IP address) : địa chỉ máy chủ muốn kết nối từ xa
+        Connection type : loại giao thức kết nối
+        Port : là cổng để kết nối, mỗi loại sẽ có số port riêng
+
+
+4: Vmware Workstation
+        Chương trình chạy máy ảo giúp máy tính có thể chạy đồng thời nhiều hệ điều hành
